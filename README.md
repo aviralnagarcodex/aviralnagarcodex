@@ -1,7 +1,7 @@
 # Hi there, I'm Aviral Nagar! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/aviralnagarcodex?style=social) 
-![GitHub stars](https://img.shields.io/github/stars/aviralnagarcodex?style=social)
+![GitHub followers](https://img.shields.io/github/followers/aviralnagarcodex?style=social&label=Followers&maxAge=2592000) 
+![GitHub stars](https://img.shields.io/github/stars/aviralnagarcodex?style=social&label=Stars&maxAge=2592000)
 
 ![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+my+GitHub+Profile!)
 
@@ -34,7 +34,8 @@
 
 ## 📈 GitHub Stats
 
-![Aviral's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviralnagarcodex&show_icons=true&theme=radical)
+![Aviral's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviralnagarcodex&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviralnagarcodex&layout=compact&theme=radical)
 
 ## 🔗 Links
 
