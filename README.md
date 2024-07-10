@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/aviralnagarcodex?style=social&label=Followers&maxAge=2592000) 
 ![GitHub stars](https://img.shields.io/github/stars/aviralnagarcodex?style=social&label=Stars&maxAge=2592000)
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+my+GitHub+Profile!)
+![Profile Banner](https://via.placeholder.com/1000x200.png?text=Hi!!+Welcome+to+my+GitHub+Profile!)
 
 ## 🚀 About Me
 
