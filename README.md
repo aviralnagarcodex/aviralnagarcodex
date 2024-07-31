@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning and working on IoT, AI/ML, and Web Development.
 - 👯 I’m looking to collaborate on exciting projects related to IoT and AI/ML.
 - 💬 Ask me about Python, C++, IoT, AI/ML, and Web Development.
-- 📫 How to reach me: [aviralnagarcodex@gmail.com](mailto:aviralnagarcodex@gmail.com) or [+91-8299886901](tel:+918299886901)
+- 📫 How to reach me: [aviralnagarcodex@gmail.com](mailto:aviralnagarcodex@gmail.com)
 - ⚡ Fun fact: I love playing Table Tennis and participating in tech fests!
 
 ## 🛠️ Skills
