@@ -2,8 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/aviralnagarcodex?style=social&label=Followers&maxAge=2592000) 
 ![GitHub stars](https://img.shields.io/github/stars/aviralnagarcodex?style=social&label=Stars&maxAge=2592000)
-
-![Profile Banner](https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
 <p align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hey! Welcome to my GitHub Profile!" />
 </p>
